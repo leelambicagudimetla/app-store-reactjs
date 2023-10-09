@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.list-item {
+  max-width: 300px;
+  margin: auto;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0;
+}
+.social-para {
+  font-size: 18px;
+  padding-right: 15px;
+  width: 190px;
+  color: #7b8794;
+}
